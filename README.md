@@ -30,7 +30,7 @@ Accuracy: The ratio of correctly predicted instances to the total instances.
 **5) Installation**
 1) Clone the repository:
 - Copy code
-  -git clone https://github.com/your-username/breast-cancer-prediction.git
+  -git clone (https://github.com/priyank2909/Breast-Cancer-Prediction.git)
   -cd breast-cancer-prediction
   
 2) Install the required dependencies:
