@@ -19,29 +19,20 @@ The Breast Cancer Prediction Project aims to develop a predictive model that acc
 **2) Features**
 
 a) Data Integration: Combines data from various sources including medical records, diagnostic imaging, genetic information, and pathology reports.
-
 b) Predictive Modeling: Implements multiple machine learning models to predict the likelihood of breast cancer.
-
 c) Model Evaluation: Uses comprehensive evaluation metrics to assess model performance.
-
 d) Ethical Considerations: Ensures patient data privacy and addresses potential biases in the models.
-
 
 **3) Modeling Techniques**
 
 a) Logistic Regression: For predicting the probability of a binary outcome.
-
 b) Random Forests: For classification based on feature values.
-
 c) Support Vector Machines (SVM): For finding the optimal hyperplane that separates classes.
-
 d) K-Nearest Neighbors (KNN): For classifying data points based on the 'k' nearest neighbors.
-
 
 **4) Evaluation Metrics**
 
 Accuracy: The ratio of correctly predicted instances to the total instances.
-
 
 **5) Installation**
 
