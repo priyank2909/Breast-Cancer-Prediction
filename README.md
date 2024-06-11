@@ -48,7 +48,7 @@ Accuracy: The ratio of correctly predicted instances to the total instances.
 2) Install the required dependencies:
 - Copy code
 
-        pip install -r requirements.txt
+        pip install numpy pandas matplotlib seaborn
 
 ## 6) Usage
 
